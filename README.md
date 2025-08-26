@@ -1,4 +1,4 @@
-# Task-3-Tic-Tac-Toe-Web-Application
+# Tic-Tac-Toe-Web-Application
 A fun and interactive web-based Tic-Tac-Toe game built for players of all ages. This project combines a sleek design with responsive and intuitive gameplay, allowing two players to enjoy this classic game in a modern digital format.
 
 Features:
